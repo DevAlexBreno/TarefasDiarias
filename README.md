@@ -7,3 +7,6 @@ Este código é um projeto que, mais pra frente vou transformar em uma aplicaç�
 Alex Breno
 
 ![image](https://user-images.githubusercontent.com/105872871/179421226-12fa6dc2-c4b7-4686-bb56-7fd94b2c0f3a.png)
+![image](https://user-images.githubusercontent.com/105872871/179421278-2d3164a8-fc75-4679-8183-e6a6b0cd0bc0.png)
+![image](https://user-images.githubusercontent.com/105872871/179421294-576f7187-ece0-4404-9de3-4981ade54f41.png)
+
