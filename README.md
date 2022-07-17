@@ -6,3 +6,4 @@ Este código é um projeto que, mais pra frente vou transformar em uma aplicaç�
 "Com pequenos passos constantes, vou construindo meu futuro brilhante!"
 Alex Breno
 
+![image](https://user-images.githubusercontent.com/105872871/179421226-12fa6dc2-c4b7-4686-bb56-7fd94b2c0f3a.png)
